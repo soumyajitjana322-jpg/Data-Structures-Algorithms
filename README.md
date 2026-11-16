@@ -44,3 +44,17 @@ Queue: [20, 30]
 - Nodes and Pointers
 - Linked List Traversal
 
+## 🌳 Binary Search Tree (BST)
+
+### Sample Output
+```text
+Inorder Traversal:
+20 30 40 50 60 70 80
+```
+
+### Concepts Used
+- Classes and Objects
+- Binary Search Tree
+- Recursive Insertion
+- Inorder Traversal
+
